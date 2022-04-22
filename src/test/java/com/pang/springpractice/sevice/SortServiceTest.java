@@ -1,6 +1,6 @@
-package com.pang.javaoop.sevice;
+package com.pang.springpractice.sevice;
 
-import com.pang.javaoop.logic.JavaSort;
+import com.pang.springpractice.logic.JavaSort;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

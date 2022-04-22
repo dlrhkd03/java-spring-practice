@@ -1,4 +1,4 @@
-package com.pang.javaoop;
+package com.pang.springpractice;
 
 import org.junit.jupiter.api.Test;
 

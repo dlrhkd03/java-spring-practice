@@ -1,4 +1,6 @@
-package com.pang.javaoop.logic;
+package com.pang.springpractice.logic;
+
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
